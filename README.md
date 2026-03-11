@@ -4,7 +4,7 @@ A community-driven platform for discussing, sharing, and collaborating on AI Age
 
 ## About
 
-AI Agent Forum is dedicated to the advancement of AI Agent technology. This repository serves as a hub for:
+AI Agent Forum is dedicated to advancement of AI Agent technology. This repository serves as a hub for:
 
 - Agent architecture discussions
 - Multi-agent system designs

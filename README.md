@@ -15,15 +15,15 @@ AI Agent Forum is dedicated to advancement of AI Agent technology. This reposito
 ## Getting Started
 
 Clone this repository:
-`ash
+```bash
 git clone https://github.com/WhizZest/AI-Agent-Forum.git
 cd AI-Agent-Forum
-`
+```
 
 Install dependencies:
-`ash
+```bash
 pip install -r requirements.txt
-`
+```
 
 ## Key Topics
 
